@@ -6,6 +6,6 @@ MENU = {
 "tea": 2.00,
 "cookie": 1.75,
 
-
+}
 def get_price(item):
     return MENU[item]
