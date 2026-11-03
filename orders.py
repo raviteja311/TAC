@@ -6,3 +6,4 @@ def order_total(items):
 if __name__ == "__main__":
     print(order_total(["latte", "espresso"]))
 #TODO: add tax calculation
+# TODO: Add discount codes
