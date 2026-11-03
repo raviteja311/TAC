@@ -4,7 +4,7 @@ MENU = {
 "cappuccino": 3.75,
 "mocha": 4.00,
 "tea": 2.00,
-"cookie": 1.50,
+"cookie": 1.75,
 
 
 def get_price(item):
