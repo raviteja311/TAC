@@ -1,5 +1,5 @@
 MENU = {
-"espresso": 2.50,
+"espresso": 2.75,
 "latte": 3.50,
 "cappuccino": 3.75,
  "mocha":
